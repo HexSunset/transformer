@@ -1,3 +1,6 @@
+# Transformer
+Tool for transforming different algebraic expressions.
+
 ## Feature goals
 - [ ] A way to represent different values mathematically accurately. As a product of different elements so `2 * sqrt(2)` would not be approximated to ~2.828427...
 - [ ] A function to get the approximate numeric value of one of these mathematical values.
